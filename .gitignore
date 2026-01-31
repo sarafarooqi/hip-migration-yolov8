@@ -1,0 +1,5 @@
+yolo-env/
+__pycache__/
+.DS_Store
+*.pt
+data/
