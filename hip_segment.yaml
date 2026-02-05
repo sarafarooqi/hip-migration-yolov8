@@ -1,0 +1,9 @@
+path: /Users/sarafarooqi/hip-migration-yolov8/data
+train: images/train
+val: images/val
+
+nc: 3
+names:
+  0: pelvic_ring
+  1: left_obturator_foramen
+  2: right_obturator_foramen

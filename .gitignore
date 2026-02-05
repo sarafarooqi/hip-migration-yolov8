@@ -1,5 +1,21 @@
-yolo-env/
+# Python
 __pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+yolo-env/
+venv/
+.env/
+
+# YOLO / training outputs
+runs/
+
+# OS files
 .DS_Store
-*.pt
-data/
+
+# Large medical data
+*.dcm
+*.dicom
+*.tiff
+*.tif
